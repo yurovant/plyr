@@ -94,7 +94,7 @@
   "dependencies": {
     "core-js": "^3.22.0",
     "custom-event-polyfill": "^1.0.7",
-    "loadjs": "^4.2.0",
+    "loadjs": "^4.3.0",
     "rangetouch": "^2.0.1",
     "url-polyfill": "^1.1.12"
   }
